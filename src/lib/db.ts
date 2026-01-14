@@ -28,7 +28,7 @@ export const data: IImage[] = [
   {
     id: "3",
     name: "Night City",
-    url: "https://cdn.pixabay.com/images/download/x-9455109_1920.jpg",
+    url: "https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885_1280.jpg",
     category: "photo",
     likes: 310,
     share: 79
